@@ -4,7 +4,7 @@ README.md
 
 `retail_iva.yml`: Config file for this app. Holds information about input parameters for various plugins
 
-`pgie_config_peoplenet.yml`: Config file ofr Primary Inference Engine (PeopleNet)
+`pgie_config_peoplenet.yml`: Config file for Primary Inference Engine (PeopleNet)
 
 `basket_classifier.yml`, `basket_classifier.txt`: Config file for Secondary Inference Engine
 
